@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Kindleclouds
-Play School marketing website
-=======
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -77,4 +73,3 @@ export default defineConfig([
   },
 ])
 ```
->>>>>>> cc1b9f3 (fix project root)
